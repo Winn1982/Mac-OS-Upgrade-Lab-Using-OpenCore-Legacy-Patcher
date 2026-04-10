@@ -122,4 +122,4 @@ Successful Outcomes:
 ⚠️ Known Issues
 - Graphics acceleration may be limited
 - AirDrop / Handoff may not work
-- Occasional UI lag depending on GPU
+- Occasional UI lag
